@@ -1,7 +1,7 @@
 # Webicycle
 Tela de monitoramento para site de vendas
 
-![Capturar](https://user-images.githubusercontent.com/58003503/94342805-05070e00-ffea-11ea-9915-ab53b98f666f.JPG)
+![picasion com_28ca0ae5a55b3f2d08335ea231c443ff](https://user-images.githubusercontent.com/58003503/94343492-f2430800-ffee-11ea-88a2-d346acc8d7b5.gif)
 
 ### *Descrição* :grey_exclamation:
 Tela de monitoramento para negocios
